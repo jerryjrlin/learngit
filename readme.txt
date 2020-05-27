@@ -1,3 +1,3 @@
 Git is a version control system.
 Git is free software
-Add line for master
+Git merge line for master
